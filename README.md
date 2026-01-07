@@ -2,6 +2,10 @@
 
 Automation tools to parse and consolidate SonarQube and Mend (WhiteSource) security reports, enabling automated CVE detection and remediation tracking.
 
+<p align="center">
+  <img src="images/securityscan.png" alt="Security Scan" width="700">
+</p>
+
 ## Features
 
 - **Multi-Source Parsing**: Parse security reports from SonarQube and Mend/WhiteSource
